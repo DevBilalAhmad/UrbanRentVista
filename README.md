@@ -21,7 +21,7 @@ To get started with Urban Rent Vista, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/urban-rent-vista.git
+   git clone https://github.com/DevBilalAhmad/UrbanRentVista
    ```
 
 2. Navigate to the project directory:
