@@ -75,24 +75,6 @@ After installing the project, you can use it as follows:
 ## Contributing
 We welcome contributions to Urban Rent Vista! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
 
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature-name
-   ```
-
-3. Make your changes and commit them:
-   ```bash
-   git commit -m "Add feature-name"
-   ```
-
-4. Push to the branch:
-   ```bash
-   git push origin feature-name
-   ```
-
-5. Open a pull request.
-
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
