@@ -1,7 +1,3 @@
-Here's a README template for your project "Urban Rent Vista":
-
----
-
 # Urban Rent Vista
 
 Urban Rent Vista is a comprehensive real estate rental platform designed to make finding a rental property simple, efficient, and enjoyable. This project aims to provide users with a seamless experience in searching, viewing, and renting properties.
@@ -47,7 +43,7 @@ To get started with Urban Rent Vista, follow these steps:
 
 5. Start the development server:
    ```bash
-   npm start
+   npm run dev 
    ```
 
 ## Usage
