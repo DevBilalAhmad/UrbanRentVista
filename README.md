@@ -13,7 +13,7 @@ Urban Rent Vista is a comprehensive real estate rental platform designed to make
 
 ## Features
 - **Search and Filter:** Easily find rental properties that match your preferences.
-- **Direct Communication:** Chat directly with landlords to ask questions and schedule visits.
+- **Authentication:** There are three types of **users** guest,user or listing agent.  
 - **Verified Listings:** Trust that all listings are accurate and up-to-date.
 
 ## Installation
@@ -97,8 +97,7 @@ We welcome contributions to Urban Rent Vista! If you have any ideas, suggestions
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
-We are profoundly grateful for the support and guidance provided by our supervisor, Professor Shazaid Shahib. His advice and encouragement were instrumental in shaping this project. We also thank our family, friends, and all participants who provided valuable feedback and data.
+We are profoundly grateful for the support and guidance provided by our supervisor, Professor Dr.Shehzaid Shahib. His advice and encouragement were instrumental in shaping this project. We also thank our family, friends, and all participants who provided valuable feedback and data.
 
 ---
 
-Feel free to modify any sections to better fit your project specifics and personal preferences.
