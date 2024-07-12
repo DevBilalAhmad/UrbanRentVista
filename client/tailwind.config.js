@@ -1,0 +1,58 @@
+/** @type {import('tailwindcss').Config} */
+export default {
+  content: [
+    "./index.html",
+    "./src/**/*.{js,ts,jsx,tsx}",
+  ],
+  theme: {
+    extend: {
+      colors: {
+        white: "#fff",
+        "text-colour-4": "#aaa",
+        "text-colour-2": "#2b2b2b",
+        "text-colour-1": "#0b090a",
+        "primary-colour": "#3a0ca3",
+        "text-colour-5": "#d4d4d4",
+        "colour-1": "#4361ee",
+        "text-colour-3": "#808080",
+        lightgray: "rgba(212, 212, 212, 0.2)",
+        dimgray: "rgba(109, 106, 117, 0.5)",
+        silver: "#bfbdc1",
+        royalblue: "rgba(33, 118, 255, 0)",
+        mediumslateblue: "rgba(67, 97, 238, 0.3)",
+        gray: "#1e1e1e",
+        mistyrose: "#ffe1e1",
+        red: "#ff1111",
+        honeydew: "#f1fff1",
+        limegreen: "#00ce3a",
+        lavender: "#d7eeff",
+        dodgerblue: "#119bff",
+      },
+      spacing: {},
+      fontFamily: {
+        "h4-semibold": "Poppins",
+      },
+      borderRadius: {
+        "11xl": "30px",
+        "21xl": "40px",
+        "3xs": "10px",
+        "101xl": "120px",
+        xl: "20px",
+        "31xl": "50px",
+        "8xs": "5px",
+        "781xl": "800px",
+      },
+    },
+    fontSize: {
+      base: "16px",
+      "lgi-4": "19.4px",
+      xl: "20px",
+      "20xl-8": "39.8px",
+      "8xl-6": "27.6px",
+      "38xl-3": "57.3px",
+      "sm-3": "13.3px",
+      inherit: "inherit",
+    },
+  },
+  plugins: [],
+}
